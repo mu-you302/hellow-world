@@ -18,7 +18,7 @@ ___
     单行文本
     加一行
   
-```js
+```C++
   #include<iostream>  
   using namespace std;
 ```
