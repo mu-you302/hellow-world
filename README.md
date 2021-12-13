@@ -28,13 +28,17 @@ ___
 ```
   
 ```C++
-  #include<iostream>  
-  using namespace std;
-  int main()
-  {
+    #include<iostream>  
+    using namespace std;
+    int main()
+    {
         cout<<"hellow world!"<<endl;
         return 0;
-  }
+    }
+```
+
+```python
+    print("hellow world!)
 ```
     
 `tag`
