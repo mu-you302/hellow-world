@@ -18,9 +18,23 @@ ___
     单行文本
     加一行
   
+```C
+    #include<stdio.h>
+    int main()
+    {
+        printf("hellow world!\n");
+        return 0;
+    }
+```
+  
 ```C++
   #include<iostream>  
   using namespace std;
+  int main()
+  {
+        cout<<"hellow world!"<<endl;
+        return 0;
+  }
 ```
     
 `tag`
