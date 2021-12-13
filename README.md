@@ -38,7 +38,7 @@ ___
 ```
 
 ```python
-    print("hellow world!)
+    print("hellow world!")
 ```
     
 `tag`
