@@ -54,6 +54,8 @@ ___
 ![baidu](http://www.baidu.com/img/bdlogo.gif "baidulogo")
   
 [我的博客](http://blog.csdn.net)
+
+$x=\frac{-b \pm \sqrt{b^{2}-4 a c}}{2 a}$
   
 :blush:
   
